@@ -1,0 +1,1 @@
+function n(r){return parseFloat(r).toLocaleString("en-US",{style:"currency",currency:"USD"})}function t(r){return parseInt(r).toLocaleString("vi-VN",{style:"currency",currency:"VND"})}export{n as a,t as f};
